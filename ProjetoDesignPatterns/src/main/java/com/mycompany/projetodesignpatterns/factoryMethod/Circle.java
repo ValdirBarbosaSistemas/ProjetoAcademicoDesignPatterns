@@ -9,6 +9,7 @@ public class Circle extends Shape {
 	}
 
 	// Métodos
+	@Override
 	public String draw() {
 		return "Desenhou...";
 	}

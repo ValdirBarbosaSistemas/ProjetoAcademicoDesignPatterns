@@ -10,10 +10,15 @@ public class Usuarios {
 	private String nome;
 	private String genero;
 
-	// Construtor vazio
+	// Construtor
 	public Usuarios(String nome, String genero) {
 		this.nome = nome;
 		this.genero = genero;
+	}
+
+	// Construtor vazio
+	public Usuarios() {
+		super();
 	}
 
 	// Getters e Setters
@@ -31,11 +36,6 @@ public class Usuarios {
 
 	public void setGenero(String genero) {
 		this.genero = genero;
-	}
-
-	// Métodos
-	public String sexo(String genero) {
-		return genero;
 	}
 
 }

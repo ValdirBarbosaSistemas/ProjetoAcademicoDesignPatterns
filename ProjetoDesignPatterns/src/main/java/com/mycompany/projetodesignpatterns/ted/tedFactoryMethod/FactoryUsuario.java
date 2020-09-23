@@ -12,8 +12,14 @@ public class FactoryUsuario {
 	}
 
 	// Métodos que irão ser implementados
-	public String sexoGenero(String genero) {
-		if(genero.equals("masculino"))
-			//TODO ver como implementar o genero aqui...
+	public Usuarios getSexo(String tipo) {
+		if(tipo.equals("Masculino"))
+			return new Masculino("Masculino");
+		else if(tipo.equals("Feminino"))
+			return new Feminino(nome, genero);
+		else
+			return new Usuarios();
+		
+		//TODO VER DE OUTRA FORMA
 	}
 }
