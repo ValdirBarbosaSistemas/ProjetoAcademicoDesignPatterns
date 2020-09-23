@@ -10,12 +10,6 @@ public class Usuarios {
 	private String nome;
 	private String genero;
 
-	// Construtor
-	public Usuarios(String nome, String genero) {
-		this.nome = nome;
-		this.genero = genero;
-	}
-
 	// Construtor vazio
 	public Usuarios() {
 		super();
