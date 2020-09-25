@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64997dc8-030e-4866-ad48-cdb7c71ef30a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ProjetoAcademicoDesignPatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ProjetoAcademicoDesignPatterns.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/facade/ExemploFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/facade/ExemploFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/FactoryShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/FactoryShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Polygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/mvc/ExemploMVC.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/mvc/ExemploMVC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/FactoryUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/FactoryUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Feminino.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Feminino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Indeciso.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Indeciso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Masculino.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Masculino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Usuarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Usuarios.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i0VkfSFgZ1YyOrmMxLZwK87oP5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="xpath.settings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.projetodesignpatterns.factoryMethod.Main" />
+      <module name="ProjetoAcademicoDesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.projetodesignpatterns.factoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64997dc8-030e-4866-ad48-cdb7c71ef30a" name="Default Changelist" comment="" />
+      <created>1601044651294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601044651294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="36" width="1084" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601046861415">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="36" width="1084" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1601046861415" />
+    <state x="466" y="117" width="424" height="582" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1601046468783">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="117" width="424" height="582" key="#com.intellij.ide.macro.MacrosDialog/0.27.1366.741@0.27.1366.741" timestamp="1601046468783" />
+    <state x="415" y="202" width="525" height="412" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601046643355">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="415" y="202" width="525" height="412" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1601046643355" />
+    <state x="370" y="278" width="462" height="234" key="DetectedRootsChooserDialog" timestamp="1601046777667">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="370" y="278" width="462" height="234" key="DetectedRootsChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1601046777667" />
+    <state x="380" y="173" width="683" height="480" key="FileChooserDialogImpl" timestamp="1601046775099">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="380" y="173" width="683" height="480" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1601046775099" />
+    <state width="1322" height="150" key="GridCell.Tab.0.bottom" timestamp="1601046976050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1322" height="150" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601046976050" />
+    <state width="1322" height="150" key="GridCell.Tab.0.center" timestamp="1601046976049">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1322" height="150" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601046976049" />
+    <state width="1322" height="150" key="GridCell.Tab.0.left" timestamp="1601046976049">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1322" height="150" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601046976049" />
+    <state width="1322" height="150" key="GridCell.Tab.0.right" timestamp="1601046976050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1322" height="150" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601046976050" />
+    <state x="94" y="27" width="1024" height="739" key="SettingsEditor" timestamp="1601046808258">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="94" y="27" width="1024" height="739" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1601046808258" />
+    <state x="373" y="289" width="610" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601046914780">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="373" y="289" width="610" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1366.741@0.27.1366.741" timestamp="1601046914780" />
+    <state x="377" y="130" width="611" height="534" key="find.popup" timestamp="1601046543893">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="377" y="130" width="611" height="534" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1601046543893" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Main.java</url>
+          <line>5</line>
+          <properties class="com.mycompany.projetodesignpatterns.factoryMethod.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="ProjetoAcademicoDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+        <item name="ProjetoAcademicoDesignPatterns" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
