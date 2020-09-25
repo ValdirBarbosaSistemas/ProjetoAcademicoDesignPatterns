@@ -1,15 +1,14 @@
 package com.mycompany.projetodesignpatterns.ted.tedFactoryMethod;
 
-public class Masculino extends Usuarios {
+public class Indeciso extends Usuarios {
 
 	// Construtor vazio
-	public Masculino() {
+	public Indeciso() {
 		super();
 	}
-
+	
 	@Override
 	public String getGenero() {
-		return "Bem vindo Sr." + getNome();
+		return "Bem vindo " + getNome();
 	}
-
 }

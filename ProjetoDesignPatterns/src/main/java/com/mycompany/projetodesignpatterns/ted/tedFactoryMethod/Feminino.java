@@ -5,6 +5,10 @@ public class Feminino extends Usuarios {
 	// Construtor vazio
 	public Feminino() {
 		super();
-		System.out.println("Bem vindo Sra." + getNome());
+	}
+
+	@Override
+	public String getGenero() {
+		return "Bem vindo Sra." + getNome();
 	}
 }
