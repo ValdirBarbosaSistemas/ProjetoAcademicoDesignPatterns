@@ -31,5 +31,4 @@ public class Usuarios {
 	public void setGenero(String genero) {
 		this.genero = genero;
 	}
-
 }

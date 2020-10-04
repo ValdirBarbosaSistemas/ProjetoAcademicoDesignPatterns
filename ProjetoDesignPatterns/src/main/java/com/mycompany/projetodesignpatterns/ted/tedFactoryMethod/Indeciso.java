@@ -6,7 +6,7 @@ public class Indeciso extends Usuarios {
 	public Indeciso() {
 		super();
 	}
-	
+
 	@Override
 	public String getGenero() {
 		return "Bem vindo " + getNome();

@@ -12,6 +12,7 @@ public class FactoryUsuario extends Usuarios {
 	}
 
 	// Métodos que irão ser implementados
+	// A factory method é responsável pela criação dos objetos
 	public Usuarios getSexo(String genero) {
 		if (genero.equals("Masculino"))
 			return new Masculino();
