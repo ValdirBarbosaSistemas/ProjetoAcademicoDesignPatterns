@@ -5,12 +5,15 @@ import com.mycompany.projetodesignpatterns.abstractFactory.model.Carro;
 public class Main {
 
 	private static Carro montarCarro(String tipo) {
+
+		// Método implementado antes de instanciar o objeto
 		CarroFactory cf = null;
 		if (tipo.compareTo("luxo") == 0)
 			cf = new CarroLuxoFactory();
 		else if (tipo.compareTo("popular") == 0)
 			cf = new CarroPopularFactory();
 
+		// Instanciando um objeto dentro do método criado
 		Carro c = new Carro();
 		c.setRoda(cf.montarRoda());
 		c.setSom(cf.montarSom());
@@ -21,8 +24,8 @@ public class Main {
 		 * main e que também necessitam de classes abstratas para implementar de uma
 		 * forma obrigatoria e organizada, ou seja, os artefatos de cada objeto serão
 		 * declarados de forma abstrata para que a implementação dos mesmos sejam como
-		 * regras quando os objetos forem criados 
-		 * FÁBRICAS ABSTRATAS PARA A CRIAÇÃO DE REGRAS PARA CONSTRUÇÃO DO OBJETO
+		 * regras quando os objetos forem criados FÁBRICAS ABSTRATAS PARA A CRIAÇÃO DE
+		 * REGRAS PARA CONSTRUÇÃO DO OBJETO
 		 */
 	}
 
