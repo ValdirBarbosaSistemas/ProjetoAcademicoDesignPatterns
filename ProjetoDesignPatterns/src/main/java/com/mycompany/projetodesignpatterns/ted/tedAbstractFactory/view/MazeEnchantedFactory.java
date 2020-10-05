@@ -9,6 +9,11 @@ import com.mycompany.projetodesignpatterns.ted.tedAbstractFactory.model.RoomEnch
 import com.mycompany.projetodesignpatterns.ted.tedAbstractFactory.model.Wall;
 import com.mycompany.projetodesignpatterns.ted.tedAbstractFactory.model.WallEnchanted;
 
+/***
+ * 
+ * @author valdir-sistemas
+ *
+ */
 public class MazeEnchantedFactory extends AbstractMazeFactory {
 
 	@Override

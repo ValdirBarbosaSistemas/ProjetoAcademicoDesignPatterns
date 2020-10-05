@@ -5,6 +5,11 @@ import com.mycompany.projetodesignpatterns.ted.tedAbstractFactory.model.Maze;
 import com.mycompany.projetodesignpatterns.ted.tedAbstractFactory.model.Room;
 import com.mycompany.projetodesignpatterns.ted.tedAbstractFactory.model.Wall;
 
+/**
+ * 
+ * @author valdir-sistemas
+ *
+ */
 public class MazeFactory extends AbstractMazeFactory {
 
 	@Override

@@ -3,6 +3,11 @@ package com.mycompany.projetodesignpatterns.ted.tedAbstractFactory.view;
 import com.mycompany.projetodesignpatterns.ted.tedAbstractFactory.model.Room;
 import com.mycompany.projetodesignpatterns.ted.tedAbstractFactory.model.RoomEnchanted;
 
+/**
+ * 
+ * @author valdir-sistemas
+ *
+ */
 public class RoomFactory extends AbstractRoom {
 
 	@Override

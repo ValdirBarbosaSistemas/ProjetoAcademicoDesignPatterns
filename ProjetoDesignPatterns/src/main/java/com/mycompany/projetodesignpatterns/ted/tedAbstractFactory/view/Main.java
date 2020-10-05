@@ -9,6 +9,7 @@ import com.mycompany.projetodesignpatterns.ted.tedAbstractFactory.model.MazeGame
 public class Main {
 	private static MazeGame montarJogo(String tipo) {
 		AbstractMazeFactory amzf = null;
+
 		if (tipo.equals("Maze"))
 			amzf = new MazeFactory();
 		else if (tipo.equals("MazeEnchanted"))
@@ -24,6 +25,7 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
+
 		MazeGame mz1 = montarJogo("Maze");
 		MazeGame mz2 = montarJogo("MazeEnchanted");
 
