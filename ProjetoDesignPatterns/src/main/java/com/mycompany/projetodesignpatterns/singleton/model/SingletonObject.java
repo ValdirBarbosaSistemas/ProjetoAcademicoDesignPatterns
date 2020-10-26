@@ -10,9 +10,12 @@ public class SingletonObject {
 	 * OBJETO EXISTA, INDEPENDENTEMENTE DO NÚMERO DE REQUISIÇÕES QUE ELE RECEBER
 	 * QUANDO CRIÁ-LO. (FORMAS DE GARANTIR QUE APENAS UM OBJETO EXISTA)
 	 */
+	
+	// Declaração de uma variável
 	private int estoque = 10;
 
-	// criação de um atributo do mesmo tipo da classe ESTÁTICO e instanciando o mesmo
+	// criação de um atributo do mesmo tipo da classe ESTÁTICO e instanciando o
+	// mesmo
 	private static SingletonObject instance = new SingletonObject();
 
 	// Construtor nunca será público
@@ -23,7 +26,7 @@ public class SingletonObject {
 	// Implementar metodo getInstance ESTÁTICO
 	public static SingletonObject getInstance() {
 		if (instance == null)
-			instance = new SingletonObject();
+			instance = new SingletonObject(); // Outra maneira de instanciar é pelo método 'getIsntance'
 		return instance;
 	}
 
