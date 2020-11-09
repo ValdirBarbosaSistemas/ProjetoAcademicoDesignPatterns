@@ -19,7 +19,7 @@ public class Incremental {
 		for (this.numero = 0; this.numero < 10; this.numero++) {
 			System.out.println(this.numero++);
 		}
-//		numero = ++count;
+		numero = ++count;
 	}
 
 	// Método estático

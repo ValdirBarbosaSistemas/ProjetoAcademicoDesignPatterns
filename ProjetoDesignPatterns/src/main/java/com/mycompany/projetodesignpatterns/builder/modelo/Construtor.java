@@ -6,6 +6,8 @@ public abstract class Construtor {
 
 	}
 
+	// MODELO PARA A IMPLEMENTAÇÃO DA CASA/PREDIO
+	
 	public abstract void passoUm();
 
 	public abstract void passoDois();

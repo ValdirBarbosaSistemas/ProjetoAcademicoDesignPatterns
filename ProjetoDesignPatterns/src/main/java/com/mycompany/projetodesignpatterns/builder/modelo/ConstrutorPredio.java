@@ -2,6 +2,8 @@ package com.mycompany.projetodesignpatterns.builder.modelo;
 
 public class ConstrutorPredio extends Construtor {
 
+	// MODELO PARA PŔEDIO
+	
 	private Predio predio = new Predio();
 
 	public ConstrutorPredio(Predio predio) {

@@ -2,6 +2,8 @@ package com.mycompany.projetodesignpatterns.builder.modelo;
 
 public class ConstrutorCasa extends Construtor {
 
+	// MODELO PARA A CASA
+	
 	private Casa casa = new Casa();
 
 	public ConstrutorCasa(Casa casa) {

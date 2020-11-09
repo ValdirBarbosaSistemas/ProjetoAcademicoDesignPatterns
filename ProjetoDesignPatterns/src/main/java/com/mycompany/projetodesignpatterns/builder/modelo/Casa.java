@@ -6,6 +6,8 @@ public class Casa extends Edificacao {
 	 * mesmo processo da construção possa criar representações diferentes.
 	 */
 
+	// CARACTERÍSTICAS DE UMA CASA
+	
 	private int m2;
 
 	public Casa() {
@@ -13,7 +15,7 @@ public class Casa extends Edificacao {
 	}
 
 	// Getters e Setters
-	
+
 	public int getM2() {
 		return this.m2;
 	}

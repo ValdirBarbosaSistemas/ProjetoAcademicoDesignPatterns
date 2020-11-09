@@ -1,6 +1,8 @@
 package com.mycompany.projetodesignpatterns.builder.modelo;
 
 public class Edificacao {
+
+	// MODELO/MOLDE PARA CONSTRUIR
 	
 	private String endereco;
 	private double preco;

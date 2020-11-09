@@ -2,6 +2,8 @@ package com.mycompany.projetodesignpatterns.builder.modelo;
 
 public class Predio extends Edificacao {
 
+	// CARACTERÍSTICIAS DE UM PRÉDIO
+	
 	private int andares;
 
 	public Predio() {
