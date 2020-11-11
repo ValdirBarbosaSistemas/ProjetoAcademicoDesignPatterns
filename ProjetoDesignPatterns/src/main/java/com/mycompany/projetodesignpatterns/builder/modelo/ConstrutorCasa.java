@@ -2,9 +2,15 @@ package com.mycompany.projetodesignpatterns.builder.modelo;
 
 public class ConstrutorCasa extends Construtor {
 
+	/*
+	 * FIXME OBS: Para melhor entendimento colocar essa classe como se fosse um
+	 * "MESTRE DE OBRA RESPONSÁVEL PELA CASA", pois é ele quem vai ter o passo da
+	 * casa para fazer o negócio. É AQUI ONDE SERÁ IMPLEMENTADO A CASA.
+	 */
+
 	// MODELO PARA A CASA
-	
-	private Casa casa = new Casa();
+
+	private Casa casa = new Casa(); // Instanciando a casa
 
 	public ConstrutorCasa(Casa casa) {
 		this.casa = casa;

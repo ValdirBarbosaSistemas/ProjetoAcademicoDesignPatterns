@@ -3,8 +3,8 @@ package com.mycompany.projetodesignpatterns.builder.modelo;
 public class Diretor {
 	private Construtor constr;
 
-	// O DIRETOR É O RESPONSÁVEL PELA CONSTRUÇÃO DA CASA
-	
+	// O DIRETOR É O RESPONSÁVEL PELA CONSTRUÇÃO DA CASA. É ELE QUE É O "ENGENHEIRO"
+
 	public Diretor(Construtor constr) {
 		this.constr = constr;
 	}
