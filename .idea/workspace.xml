@@ -23,26 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64997dc8-030e-4866-ad48-cdb7c71ef30a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ProjetoAcademicoDesignPatterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ProjetoAcademicoDesignPatterns.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/facade/ExemploFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/facade/ExemploFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/FactoryShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/FactoryShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Polygon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/factoryMethod/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/mvc/ExemploMVC.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/mvc/ExemploMVC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/FactoryUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/FactoryUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Feminino.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Feminino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Indeciso.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Indeciso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Masculino.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Masculino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Usuarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoDesignPatterns/src/main/java/com/mycompany/projetodesignpatterns/ted/tedFactoryMethod/Usuarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="141" y="36" width="1084" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601046861415">
