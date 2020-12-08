@@ -4,5 +4,5 @@ public interface Command {
 
 	public void execute();
 
-	public void undo();
+	public void undo(); // Opção de refazer uma operacao
 }

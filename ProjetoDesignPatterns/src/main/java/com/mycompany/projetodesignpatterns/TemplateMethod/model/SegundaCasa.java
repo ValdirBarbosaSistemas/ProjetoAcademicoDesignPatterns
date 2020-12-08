@@ -1,0 +1,10 @@
+package com.mycompany.projetodesignpatterns.TemplateMethod.model;
+
+public class SegundaCasa extends EstruturaBasica {
+
+	@Override
+	public void addExtra() {
+		System.out.println("Adicionou escada...");
+	}
+
+}
